@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Docker/dockerfiles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansible practice/ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansible practice/ansible-expense-infra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansible practice/expense-ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansible practice/expense-ansible-roles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/expense-shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/k8-eksctl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-advanced/terraform-multi-env" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/expense-infra-dev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/expense-terraform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/infra-create-shell-script" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/terraform-aws-security-group" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/terraform-aws-vpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform/vpc-module-test" vcs="Git" />
+  </component>
+</project>
